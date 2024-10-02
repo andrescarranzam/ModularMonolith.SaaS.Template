@@ -1,6 +1,6 @@
 [![Build and Test](https://github.com/DavidEggenberger/ASPNETCore.Blazor.ModularMonolith.Template/actions/workflows/Build_Test.yml/badge.svg)](https://github.com/DavidEggenberger/ASPNETCore.Blazor.ModularMonolith.Template/actions/workflows/Build_Test.yml)
 
-# Modular Monolith SaaS Template
+# Modular Monolith SaaS Template '
 
 Starter Template for building modular monolithic SaaS applications with ASP.NET Core, Blazor and EF Core (SQL Server).
 
